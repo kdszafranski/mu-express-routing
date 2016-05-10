@@ -1,0 +1,17 @@
+{
+  "name": "node2",
+  "version": "1.0.0",
+  "description": "node day 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "kris",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "jquery": "^2.2.3"
+  }
+}
